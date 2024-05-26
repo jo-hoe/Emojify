@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojifyCore", "EmojifyCore.csproj", "{96A973B1-0C95-499E-8118-D0390CD4D104}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojifyCoreTest", "..\EmojifyCoreTest\EmojifyCoreTest.csproj", "{A3C13151-76FC-484E-B80C-9FA57762A08B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDataStructureCreator", "..\EmojiDataStructureCreator\EmojiDataStructureCreator.csproj", "{87070826-96D9-49F7-9B6A-DAB7069CD0ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDataStructureCreatorTest", "..\EmojiDataStructureCreatorTest\EmojiDataStructureCreatorTest.csproj", "{AAC272E3-9FDD-496C-8AEC-75E0F9DBBA31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojifyFunctions", "..\EmojifyJob\EmojifyFunctions.csproj", "{038ADF94-D68D-4A0A-A336-E80046A00716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A973B1-0C95-499E-8118-D0390CD4D104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A973B1-0C95-499E-8118-D0390CD4D104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A973B1-0C95-499E-8118-D0390CD4D104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A973B1-0C95-499E-8118-D0390CD4D104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C13151-76FC-484E-B80C-9FA57762A08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C13151-76FC-484E-B80C-9FA57762A08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C13151-76FC-484E-B80C-9FA57762A08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C13151-76FC-484E-B80C-9FA57762A08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87070826-96D9-49F7-9B6A-DAB7069CD0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87070826-96D9-49F7-9B6A-DAB7069CD0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87070826-96D9-49F7-9B6A-DAB7069CD0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87070826-96D9-49F7-9B6A-DAB7069CD0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC272E3-9FDD-496C-8AEC-75E0F9DBBA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC272E3-9FDD-496C-8AEC-75E0F9DBBA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC272E3-9FDD-496C-8AEC-75E0F9DBBA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC272E3-9FDD-496C-8AEC-75E0F9DBBA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038ADF94-D68D-4A0A-A336-E80046A00716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038ADF94-D68D-4A0A-A336-E80046A00716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038ADF94-D68D-4A0A-A336-E80046A00716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038ADF94-D68D-4A0A-A336-E80046A00716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703E09AA-F682-4A0D-B7B4-1B39C965D2BE}
+	EndGlobalSection
+EndGlobal
